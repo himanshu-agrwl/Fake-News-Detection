@@ -1,9 +1,9 @@
-📰 Fake News Detection using Machine Learning
+# 📰 Fake News Detection using Machine Learning
 
 This project detects whether a news article is Real or Fake using Machine Learning and Natural Language Processing (NLP). It processes raw text, extracts linguistic features using TF-IDF, and classifies news using models like Logistic Regression and Naive Bayes.
 
 
-🚀 Features
+## 🚀 Features
 
 Detects Real vs Fake news
 
@@ -18,7 +18,7 @@ Model evaluation using accuracy, precision, recall, and confusion matrix
 Jupyter Notebook implementation
 
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 
 Python
 
@@ -31,7 +31,7 @@ NLTK
 Jupyter Notebook
 
 
-📁 Project Structure
+## 📁 Project Structure
 ├── news_detection.ipynb
 ├── dataset/
 ├── README.md
@@ -39,7 +39,7 @@ Jupyter Notebook
 └── model/
 
 
-📌 How It Works
+## 📌 How It Works
 
 Load and preprocess the dataset
 
@@ -54,12 +54,12 @@ Evaluate and compare performance
 Predict fake/real news on unseen text
 
 
-📊 Results
+## 📊 Results
 
 The model achieves high accuracy and effectively identifies fake news based on text patterns. Performance varies depending on dataset size and quality.
 
 
-🚧 Future Improvements
+## 🚧 Future Improvements
 
 Add deep learning models (LSTM / Transformers)
 
